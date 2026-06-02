@@ -1,0 +1,338 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\7925ebb25176d5231c31e0b09c2f80a6\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\7d6ef6b498c9b47b4e23d4d5e1caab2b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\6218a6bd2aaebe23ae8b8fbfef122a21\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\9c9907f6d65a0760af55feb77108d085\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\ac767f0ed3634cc0b7806a0e6e16f868\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Gigel\.gradle\caches\8.13\transforms\f73f97e23e827a16705967c3642c7d79\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\20d6ed1a74ac6bd5df49d1b403efdb49\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\61dfc2bd47f6928442eff5440be15579\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\feaf55017242ce1d9e16d1c23ce76995\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\6c5dbe2fa171660cb95c1672560ff223\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\efe589d0cf13fd85a2e7d0213ae75d43\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\23cbaf9c236f3e606428e441339aa3e2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\fb89f2edab12c9f1ba37f5693fe27769\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\98e89d3551aea248caaae3a3917c94dc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\32b962aaf74dfd6cc5a0ae2d2ff4fa29\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\3c720e1b5097b29d90b4a89e1f993db7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\346ea8ddad17f6865d4d4879645ce334\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\97b787c5c1c24f564004af5d575365b2\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\31606f2246b6342b575d44b5c96101a3\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\b3b90fc651539ea5723f31a651642659\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\4479cc0ec9b4e96a63df16bbd39b7cd2\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\cac6093b55b46131723b54f08b0f2768\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\90c101aac35fb09ea024d027ee0be4c0\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\21effc11739780c32cd7fec791543050\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\e1c8b80484d5ef0813a3c561709d76bd\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04d39e7b2b89b8828f5d48899381e758\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\e2ea28143facec992f718f13a3ef8d7f\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\ca2ce5aa42c668e3e0ddacfa673567d2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\dd31a6fef38883a4cec938409cde1713\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\4a811471ef6f84b7c8adf85be307d7a8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\355e35676ad93a5f169284e54222cfcc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\ca666c139424c18bd23dba1aac77b428\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\a06dba39c3f3190db41217bc0f1404f5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\73f1735fdefc5e0e6a62b390fecce337\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\9c112ff4aba22bb397cbf4291e8bf149\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\e41eb3c50f20a2677533c2e96ffaac10\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\bdb9ca38a1c2befb543c25253f979f7f\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\167db5404f465bd608e507b09164059f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:9:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_DATA_SYNC
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:10:5-87
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:10:22-84
+application
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:12:5-44:19
+INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:12:5-44:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\7925ebb25176d5231c31e0b09c2f80a6\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\7925ebb25176d5231c31e0b09c2f80a6\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\6218a6bd2aaebe23ae8b8fbfef122a21\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\6218a6bd2aaebe23ae8b8fbfef122a21\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\97b787c5c1c24f564004af5d575365b2\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\97b787c5c1c24f564004af5d575365b2\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\4a811471ef6f84b7c8adf85be307d7a8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\4a811471ef6f84b7c8adf85be307d7a8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\355e35676ad93a5f169284e54222cfcc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\355e35676ad93a5f169284e54222cfcc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:14:9-36
+	android:theme
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:18:9-51
+	android:networkSecurityConfig
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:13:9-36
+activity#ro.deskdash.epd.ui.MainActivity
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:exported
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:21:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:25:27-74
+service#ro.deskdash.epd.service.DashboardService
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:29:9-33:56
+	android:enabled
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:32:13-37
+	android:foregroundServiceType
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:33:13-53
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:30:13-53
+receiver#ro.deskdash.epd.receiver.BootReceiver
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:35:9-42:20
+	android:enabled
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:36:13-50
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:39:13-41:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml:40:25-76
+uses-sdk
+INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\7925ebb25176d5231c31e0b09c2f80a6\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\7925ebb25176d5231c31e0b09c2f80a6\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\7d6ef6b498c9b47b4e23d4d5e1caab2b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\7d6ef6b498c9b47b4e23d4d5e1caab2b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\6218a6bd2aaebe23ae8b8fbfef122a21\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\6218a6bd2aaebe23ae8b8fbfef122a21\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\9c9907f6d65a0760af55feb77108d085\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\9c9907f6d65a0760af55feb77108d085\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\ac767f0ed3634cc0b7806a0e6e16f868\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\ac767f0ed3634cc0b7806a0e6e16f868\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Gigel\.gradle\caches\8.13\transforms\f73f97e23e827a16705967c3642c7d79\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Gigel\.gradle\caches\8.13\transforms\f73f97e23e827a16705967c3642c7d79\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\20d6ed1a74ac6bd5df49d1b403efdb49\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\20d6ed1a74ac6bd5df49d1b403efdb49\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\61dfc2bd47f6928442eff5440be15579\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\61dfc2bd47f6928442eff5440be15579\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\feaf55017242ce1d9e16d1c23ce76995\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\feaf55017242ce1d9e16d1c23ce76995\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\6c5dbe2fa171660cb95c1672560ff223\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\6c5dbe2fa171660cb95c1672560ff223\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\efe589d0cf13fd85a2e7d0213ae75d43\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\efe589d0cf13fd85a2e7d0213ae75d43\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\23cbaf9c236f3e606428e441339aa3e2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\23cbaf9c236f3e606428e441339aa3e2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\fb89f2edab12c9f1ba37f5693fe27769\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\fb89f2edab12c9f1ba37f5693fe27769\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\98e89d3551aea248caaae3a3917c94dc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\98e89d3551aea248caaae3a3917c94dc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\32b962aaf74dfd6cc5a0ae2d2ff4fa29\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\32b962aaf74dfd6cc5a0ae2d2ff4fa29\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\3c720e1b5097b29d90b4a89e1f993db7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\3c720e1b5097b29d90b4a89e1f993db7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\346ea8ddad17f6865d4d4879645ce334\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\346ea8ddad17f6865d4d4879645ce334\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\97b787c5c1c24f564004af5d575365b2\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\97b787c5c1c24f564004af5d575365b2\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\31606f2246b6342b575d44b5c96101a3\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\31606f2246b6342b575d44b5c96101a3\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\b3b90fc651539ea5723f31a651642659\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\b3b90fc651539ea5723f31a651642659\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\4479cc0ec9b4e96a63df16bbd39b7cd2\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\4479cc0ec9b4e96a63df16bbd39b7cd2\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\cac6093b55b46131723b54f08b0f2768\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\cac6093b55b46131723b54f08b0f2768\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\90c101aac35fb09ea024d027ee0be4c0\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\90c101aac35fb09ea024d027ee0be4c0\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\21effc11739780c32cd7fec791543050\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\21effc11739780c32cd7fec791543050\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\e1c8b80484d5ef0813a3c561709d76bd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\e1c8b80484d5ef0813a3c561709d76bd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04d39e7b2b89b8828f5d48899381e758\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04d39e7b2b89b8828f5d48899381e758\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\e2ea28143facec992f718f13a3ef8d7f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\e2ea28143facec992f718f13a3ef8d7f\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\ca2ce5aa42c668e3e0ddacfa673567d2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\ca2ce5aa42c668e3e0ddacfa673567d2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\dd31a6fef38883a4cec938409cde1713\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\dd31a6fef38883a4cec938409cde1713\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\4a811471ef6f84b7c8adf85be307d7a8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\4a811471ef6f84b7c8adf85be307d7a8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\355e35676ad93a5f169284e54222cfcc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\355e35676ad93a5f169284e54222cfcc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\ca666c139424c18bd23dba1aac77b428\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\ca666c139424c18bd23dba1aac77b428\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\a06dba39c3f3190db41217bc0f1404f5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\a06dba39c3f3190db41217bc0f1404f5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\73f1735fdefc5e0e6a62b390fecce337\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\73f1735fdefc5e0e6a62b390fecce337\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\9c112ff4aba22bb397cbf4291e8bf149\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\9c112ff4aba22bb397cbf4291e8bf149\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\e41eb3c50f20a2677533c2e96ffaac10\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\e41eb3c50f20a2677533c2e96ffaac10\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\bdb9ca38a1c2befb543c25253f979f7f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\bdb9ca38a1c2befb543c25253f979f7f\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\167db5404f465bd608e507b09164059f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\167db5404f465bd608e507b09164059f\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Gigel\Desktop\Filip\EPD-COLOR\DeskDashboard\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\97b787c5c1c24f564004af5d575365b2\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\97b787c5c1c24f564004af5d575365b2\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\355e35676ad93a5f169284e54222cfcc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\355e35676ad93a5f169284e54222cfcc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\071e985ad8d06ed8be63ae966a375b6f\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\97b787c5c1c24f564004af5d575365b2\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\97b787c5c1c24f564004af5d575365b2\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Gigel\.gradle\caches\8.13\transforms\97b787c5c1c24f564004af5d575365b2\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#ro.deskdash.epd.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#ro.deskdash.epd.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\04879d85d82a251a245929a580a1720d\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Gigel\.gradle\caches\8.13\transforms\5488c7dbe3baba23453e836d50cdd6c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

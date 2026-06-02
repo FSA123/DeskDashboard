@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "ro.deskdash.epd.app-debug-31:/xml_network_security_config.xml.flat",
+        "source": "ro.deskdash.epd.app-main-33:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "ro.deskdash.epd.app-debug-31:/drawable_ic_dashboard.xml.flat",
+        "source": "ro.deskdash.epd.app-main-33:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "ro.deskdash.epd.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "ro.deskdash.epd.app-main-33:/layout/activity_main.xml"
+    }
+]

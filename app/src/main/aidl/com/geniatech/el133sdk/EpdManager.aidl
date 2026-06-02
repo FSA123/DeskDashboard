@@ -1,0 +1,53 @@
+package com.geniatech.el133sdk;
+
+interface EpdManager {
+    String getEPDInfo();
+    int sendImage(String imagePath);
+    int sendImageByNum(String imagePath, int num);
+    int sendImageAddMagic(String imagePath, String magicPath);
+    int sendImageBitmap(in android.graphics.Bitmap bitmap);
+    int sendImageWithDetails(String imagePath, int x, int y, int w, int h, double hue_offset,
+                             double sat_offset, double bright_offset, double contrast_offset, double gamma);
+    void goToSleep(int sleepSec);
+    void setOSReboot();
+    void setOSRebootTime(int rebootTime);
+    int getTCONTemperature();
+    void upgradeTCON(String path);
+    String getServiceVersion();
+    void setEPDScreenRotate(int degree);
+    int getEPDScreenRotate();
+    void setLedOn(int brightness);
+    void setLedOff();
+    void setWifiOn();
+    void setWifiOff();
+    void forgetWifi();
+    String getWifiCountryCode();
+    void setWifiCountryCode(String countryCode);
+    void setHotspotOn();
+    void setHotspotOff();
+    String getSerialNumber();
+    String getBuildNumber();
+    void setNTPServer(String ntpServer);
+    String getNTPServer();
+    void setTimeZone(String timeZone);
+    void setSystemTime(int year, int month, int day, int hour, int minute, int second);
+    void installAPK(String path, String apkName, String pkgName);
+    void isShowNavigationBar(boolean isshow);
+    void isShowStatusBar(boolean isshow);
+    int sendpartImage(String imagePath, int x, int y);
+    int sendpartImageAddMagic(String imagePath, String magicPath, int x, int y);
+    int sendpartImageWithMask(String imagePath, String MaskImagePath);
+    int sendpartImageWithMaskAddMagic(String imagePath, String MaskImagePath, String magicPath);
+    int sendpartImageBitmap(in android.graphics.Bitmap bitmap, int x, int y);
+    int screenshot(String outputImgPath);
+    void setAutoRefrushTime(int time);
+    void isOpenRefrushTime(boolean isopen);
+    void fwUpgrade(String path);
+    void clScr();
+    void setDisplayMode(int mode);
+    int sendStream(String streamPath);
+    int getBatteryLevel();
+    void setEPDRippeMode(boolean isRippe);
+    boolean getEPDRippeMode();
+    void setImageAdjustment(double hue_offset, double sat_offset, double bright_offset, double contrast_offset, double gamma);
+}

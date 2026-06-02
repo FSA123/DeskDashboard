@@ -1,0 +1,55 @@
+plugins {
+    alias(libs.plugins.android.application)
+}
+
+android {
+    namespace 'ro.deskdash.epd'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "ro.deskdash.epd"
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+
+        buildConfigField "int",    "DISPLAY_WIDTH",              project.property("display_width")
+        buildConfigField "int",    "DISPLAY_HEIGHT",             project.property("display_height")
+        buildConfigField "String", "WEATHER_LAT",                "\"${project.property('weather.lat')}\""
+        buildConfigField "String", "WEATHER_LON",                "\"${project.property('weather.lon')}\""
+        buildConfigField "String", "WEATHER_TIMEZONE",           "\"${project.property('weather.timezone')}\""
+        buildConfigField "int",    "WEATHER_POLL_MINUTES",       project.property("weather.poll.minutes")
+        buildConfigField "int",    "MAX_CONSECUTIVE_PARTIALS",   project.property("max_consecutive_partials")
+        buildConfigField "int",    "FORCED_FULL_REFRESH_MINUTES",project.property("forced_full_refresh_minutes")
+        buildConfigField "float",  "PARTIAL_AREA_MAX_FRACTION",  project.property("partial_area_max_fraction") + "f"
+        buildConfigField "int",    "DEEP_CLEAN_HOUR",            project.property("deep_clean_hour")
+        buildConfigField "int",    "DEEP_CLEAN_MINUTE",          project.property("deep_clean_minute")
+        buildConfigField "String", "NTP_SERVER",                 "\"${project.property('ntp.server')}\""
+        buildConfigField "int",    "CLOCK_FORMAT",               project.property("clock.format")
+        buildConfigField "String", "CALENDAR_ICAL_URL",          "\"${project.property('calendar.ical.url')}\""
+        buildConfigField "int",    "CALENDAR_POLL_MINUTES",      project.property("calendar.poll.minutes")
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+
+    buildFeatures {
+        buildConfig true
+        aidl true
+    }
+}
+
+dependencies {
+    implementation libs.appcompat
+    implementation libs.material
+    implementation libs.okhttp
+}
